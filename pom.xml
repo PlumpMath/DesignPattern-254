@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>001-AbstractFactory</module>
+        <module>002-Singleton-Eager</module>
     </modules>
 
     <build>
