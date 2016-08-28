@@ -5,7 +5,7 @@ public abstract class AbstractClass {
     protected abstract void doSomething();
     protected abstract void doAnything();
 
-    public void templateMethod(){
+    public final void templateMethod(){
         doSomething();
         doAnything();
     }
