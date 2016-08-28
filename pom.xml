@@ -12,6 +12,7 @@
         <module>001-AbstractFactory</module>
         <module>002-Singleton-Eager</module>
         <module>003-Singleton-Lazy</module>
+        <module>004-TemplateMethod</module>
     </modules>
 
     <build>
