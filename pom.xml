@@ -14,6 +14,7 @@
         <module>003-Singleton-Lazy</module>
         <module>004-TemplateMethod</module>
         <module>005-Builder</module>
+        <module>006-Proxy</module>
     </modules>
 
     <build>
