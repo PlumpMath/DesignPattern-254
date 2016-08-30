@@ -13,6 +13,7 @@
         <module>002-Singleton-Eager</module>
         <module>003-Singleton-Lazy</module>
         <module>004-TemplateMethod</module>
+        <module>005-Builder</module>
     </modules>
 
     <build>
