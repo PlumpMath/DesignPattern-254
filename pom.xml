@@ -16,6 +16,7 @@
         <module>005-Builder</module>
         <module>006-Proxy</module>
         <module>007-DynamicProxy</module>
+        <module>008-Prototype</module>
     </modules>
 
     <build>
