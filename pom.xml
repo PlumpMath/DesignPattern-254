@@ -15,6 +15,7 @@
         <module>004-TemplateMethod</module>
         <module>005-Builder</module>
         <module>006-Proxy</module>
+        <module>007-DynamicProxy</module>
     </modules>
 
     <build>
