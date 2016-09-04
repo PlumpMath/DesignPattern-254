@@ -19,6 +19,7 @@
         <module>008-Prototype</module>
         <module>009-mediator.Mediator</module>
         <module>009-Mediator</module>
+        <module>010-Command</module>
     </modules>
 
     <build>
