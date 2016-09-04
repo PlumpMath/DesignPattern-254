@@ -17,7 +17,7 @@ public abstract class Command {
     protected PageGroup pageGroup = new PageGroup();
 
     /**
-     * 留给客户定义的命令
+     * 子类定义命令
      */
     public abstract void execute();
 }
