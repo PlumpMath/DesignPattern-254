@@ -20,6 +20,7 @@
         <module>009-mediator.Mediator</module>
         <module>009-Mediator</module>
         <module>010-Command</module>
+        <module>011-ChainOfResponsibility</module>
     </modules>
 
     <build>
