@@ -21,6 +21,7 @@
         <module>009-Mediator</module>
         <module>010-Command</module>
         <module>011-ChainOfResponsibility</module>
+        <module>012-Decorator</module>
     </modules>
 
     <build>
