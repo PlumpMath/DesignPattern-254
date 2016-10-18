@@ -23,6 +23,7 @@
         <module>011-ChainOfResponsibility</module>
         <module>012-Decorator</module>
         <module>013-strategy.IStrategy</module>
+        <module>014-StrategyEnum</module>
     </modules>
 
     <build>
