@@ -17,12 +17,11 @@
         <module>006-Proxy</module>
         <module>007-DynamicProxy</module>
         <module>008-Prototype</module>
-        <module>009-mediator.Mediator</module>
         <module>009-Mediator</module>
         <module>010-Command</module>
         <module>011-ChainOfResponsibility</module>
         <module>012-Decorator</module>
-        <module>013-strategy.IStrategy</module>
+        <module>013-Strategy</module>
         <module>014-StrategyEnum</module>
     </modules>
 

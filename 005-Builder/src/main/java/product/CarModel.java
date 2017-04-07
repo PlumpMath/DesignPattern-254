@@ -8,6 +8,7 @@ import java.util.List;
  */
 public abstract class CarModel {
 
+
     private List<Sequence> sequences;
 
     protected abstract void start();
